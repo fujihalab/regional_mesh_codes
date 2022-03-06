@@ -6,7 +6,7 @@ $ python3 regional_mesh_codes.py
 
 ```
 
-## Output
+## Output (東京都庁(lon=139.691774, lat=35.689450)の場合)
 ```
 1次地域メッシュ：  5339
 2次地域メッシュ：  533945
